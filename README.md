@@ -30,8 +30,9 @@ npx expo start
 ```
 
 ## Estrutura do projeto
+
 ```
-.
+
 ├── App.js                      — Componente raiz do app. Envolve a árvore com QueryClientProvider e renderiza <UserList />.
 ├── index.js                    — Ponto de entrada clássico do Expo. Registra o App com registerRootComponent(App).
 ├── components/                 — Pasta de componentes de UI (apenas apresentação/estado local).
