@@ -27,7 +27,7 @@ npx expo start
 # pressione: a (Android) ou w (Web)
 # se precisar limpar cache: npx expo start -c
 ```
-```
+
 
 ## Estrutura do projeto
 
@@ -44,6 +44,7 @@ npx expo start
 ├── package.json                — Metadados do projeto, dependências (Expo, React Query, axios), scripts (start, web, etc.).
 └── README.md                   — Instruções de instalação/execução, como testar loading/erro e checklist dos requisitos.
 
+```
 ```
 
 ## Entrada do app
