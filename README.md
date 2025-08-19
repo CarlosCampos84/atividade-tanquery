@@ -2,8 +2,8 @@
 
 ## Integrantes
 - Carlos Ferraz — RM 555223
--
--
+- Caio Henrique - RM 554600
+- Antonio Lino - RM 554518
 
 ## Descrição
 Aplicativo React Native (Expo) que consome a API pública `https://jsonplaceholder.typicode.com/users` usando **TanStack Query**.  
